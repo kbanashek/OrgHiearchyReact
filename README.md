@@ -1,2 +1,0 @@
-# OrgHiearchyReact
-Created with CodeSandbox
