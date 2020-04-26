@@ -7,7 +7,7 @@ export default class BasicTreeExample extends React.Component {
       return (
         <TreeNode label={<div>{employee}</div>}>
           {(employee === "Employee 2" && (
-            <TreeNode label={<div>Grand Child</div>} />
+            <TreeNode label={<div>Employee Child</div>} />
           )) ||
             null}
         </TreeNode>
