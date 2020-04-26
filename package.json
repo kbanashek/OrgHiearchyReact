@@ -1,7 +1,7 @@
 {
-  "name": "react-organizational-chart-demo",
+  "name": "react-org-hiearchy",
   "version": "1.0.0",
-  "description": "Demo for react-organizational-chart",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
